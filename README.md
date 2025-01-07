@@ -400,59 +400,59 @@
     </tr>
     <tr valign="top">
       <td>164</td>
-      <td>Right CONTROL key</td>
+      <td>Left Menu key</td>
     </tr>
     <tr valign="top">
       <td>165</td>
-      <td>Right CONTROL key</td>
+      <td>Right Menu key</td>
     </tr>
     <tr valign="top">
       <td>186</td>
-      <td>Right CONTROL key</td>
+      <td>; key</td>
     </tr>
     <tr valign="top">
       <td>187</td>
-      <td>Right CONTROL key</td>
+      <td>= key</td>
     </tr>
     <tr valign="top">
       <td>188</td>
-      <td>Right CONTROL key</td>
+      <td>, key</td>
     </tr>
     <tr valign="top">
       <td>189</td>
-      <td>Right CONTROL key</td>
+      <td>- key</td>
     </tr>
     <tr valign="top">
       <td>190</td>
-      <td>Right CONTROL key</td>
+      <td>. key</td>
     </tr>
     <tr valign="top">
       <td>191</td>
-      <td>Right CONTROL key</td>
+      <td>/ key</td>
     </tr>
     <tr valign="top">
       <td>192</td>
-      <td>Right CONTROL key</td>
+      <td>` key</td>
     </tr>
     <tr valign="top">
       <td>219</td>
-      <td>Right CONTROL key</td>
+      <td>[ key</td>
     </tr>
     <tr valign="top">
       <td>220</td>
-      <td>Right CONTROL key</td>
+      <td>| key</td>
     </tr>
     <tr valign="top">
       <td>221</td>
-      <td>Right CONTROL key</td>
+      <td>] key</td>
     </tr>
     <tr valign="top">
       <td>222</td>
-      <td>Right CONTROL key</td>
+      <td>' key</td>
     </tr>
     <tr valign="top">
       <td>226</td>
-      <td>Right CONTROL key</td>
+      <td>\ key</td>
     </tr>
 </table>
 
