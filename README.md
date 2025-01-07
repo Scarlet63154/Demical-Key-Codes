@@ -399,151 +399,59 @@
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>164</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>165</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>186</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>187</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>188</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>189</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>190</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>191</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>192</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>219</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>220</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>221</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
+      <td>222</td>
       <td>Right CONTROL key</td>
     </tr>
     <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
-      <td>Right CONTROL key</td>
-    </tr>
-    <tr valign="top">
-      <td>163</td>
+      <td>226</td>
       <td>Right CONTROL key</td>
     </tr>
 </table>
